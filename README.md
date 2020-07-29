@@ -13,17 +13,17 @@ Each entry provides the expected audience for the certain book (beginner, interm
 
 ###Index
 * [Data Science Introduction](#data-science-introduction)
-* [Data Processing] (#big-data-processing)
-* [Data Analysis] (#big-data-analysis)
-	* [Fundamentals] (#fundamentals)
-	* [Network Analysis] (#network-analysis)
-	* [Statistics] (#statistics)
-	* [Data Mining] (#data-mining)
-	* [Machine Learning] (#machine-learning)
-* [Data Science Application] (#big-data-application)
-	* [Data Visualization] (#data-visualization)
-* [Uncategorized] (#uncategorized)
-* [MOOCs about Data Science] (#moocs)	
+* [Data Processing](#big-data-processing)
+* [Data Analysis](#big-data-analysis)
+	* [Fundamentals](#fundamentals)
+	* [Network Analysis](#network-analysis)
+	* [Statistics](#statistics)
+	* [Data Mining](#data-mining)
+	* [Machine Learning](#machine-learning)
+* [Data Science Application](#big-data-application)
+	* [Data Visualization](#data-visualization)
+* [Uncategorized](#uncategorized)
+* [MOOCs about Data Science](#moocs)	
 
 ###Data Science Introduction
 * [Data Science: An Introduction] (http://en.wikibooks.org/wiki/Data_Science:_An_Introduction) - Wikibook - `Beginner`
